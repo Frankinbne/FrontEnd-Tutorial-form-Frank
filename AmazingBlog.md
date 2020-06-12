@@ -6,11 +6,14 @@
 
 #### FrontendBooks
 - [Eloquent JavaScript](https://eloquentjavascript.net/);
-- [前端教程合集重点推荐](https://www.jqhtml.com/category/tutorial);
+- [前端教程合集 *重点推荐*](https://www.jqhtml.com/category/tutorial);
 - [HTML & CSS Is Hard](https://www.internetingishard.com/html-and-css/introduction/);
 - [FrontendMasters](https://frontendmasters.com/books/front-end-handbook/2019/);
 - [前端书籍合集01](https://github.com/manjunath5496/HTML-CSS-Programming-Books);
+
+#### FrontendBlogs
 - [前端学习博客01](https://github.com/qiu-deqing/FE-learning#%E5%B7%A5%E5%85%B7);
+- [前端工匠 博客 *重点推荐*](https://github.com/ljianshu/Blog);
 
 
 #### CSS必读教程
@@ -35,3 +38,4 @@
 - [ES6 入门教程](https://es6.ruanyifeng.com/);
 - [JavaScript 教程](https://wangdoc.com/javascript/);
 - [ECMAScript5.1中文版](http://yanhaijing.com/es5/#about);
+- [JavaScript 完全手册（2018版）](https://www.w3schools.com/css/default.asp);
