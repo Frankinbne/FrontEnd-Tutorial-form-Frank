@@ -10,10 +10,10 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 - John Adams
 - Thomas Jefferson
 
-## 鼠标动作之间的区别
-[浅谈mouseenter和mouseover，mouseout和mouseleave](https://juejin.im/post/5cb0298e6fb9a06886420e7b);
-[mouseenter与mouseover为何这般纠缠不清？](https://juejin.im/post/5935773fa0bb9f0058edbd61);
+### 鼠标动作之间的区别
+- [浅谈mouseenter和mouseover，mouseout和mouseleave](https://juejin.im/post/5cb0298e6fb9a06886420e7b);
+- [mouseenter与mouseover为何这般纠缠不清？](https://juejin.im/post/5935773fa0bb9f0058edbd61);
 
-
-
+### 事件研究
+-[事件及事件绑定 && 事件对象及事件传播——基础知识（脑图梳理）](https://juejin.im/post/5ea9542fe51d454dc55c8f3d)
 
