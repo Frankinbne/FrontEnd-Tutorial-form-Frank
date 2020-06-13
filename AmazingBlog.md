@@ -20,6 +20,7 @@
 - [Web前端导航](http://www.alloyteam.com/nav/);
 - [Gulp](https://www.gulpjs.com.cn/);
 - [UI 设计导航](http://so.uigreat.com/);
+- [VS code LeeCode](https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/docs/README_zh-CN.md);
 
 
 #### CSS必读教程
