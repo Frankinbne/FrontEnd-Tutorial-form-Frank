@@ -15,6 +15,12 @@
 - [前端学习博客01](https://github.com/qiu-deqing/FE-learning#%E5%B7%A5%E5%85%B7);
 - [前端工匠 博客 *重点推荐*](https://github.com/ljianshu/Blog);
 
+#### 前端工具网站
+- [前端文档和工具](https://www.html.cn/nav/);
+- [Web前端导航](http://www.alloyteam.com/nav/);
+- [Gulp](https://www.gulpjs.com.cn/);
+- [UI 设计导航](http://so.uigreat.com/);
+
 
 #### CSS必读教程
 - [CSS设计指南](https://www.nli.cn/read/css-sjzhin/part0000_split_004.html);中文重点入门教程
