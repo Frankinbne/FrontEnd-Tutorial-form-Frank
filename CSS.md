@@ -24,3 +24,8 @@
 
 #### CSS重点突破-经典颜色值
 - boottrate rgb(101, 74, 141);
+
+#### CSS重点突破-border重合变粗解决方案
+- 则添加样式 margin: 0 0 -1px -1px;
+- [css解决盒子水平排列边框叠加变粗的问题](https://www.cnblogs.com/echol/p/12730200.html);
+- [css如何去掉重叠部分的边框？](https://www.php.cn/css-tutorial-412502.html)
