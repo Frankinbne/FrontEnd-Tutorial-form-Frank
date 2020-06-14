@@ -11,6 +11,9 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 - [黑马2019pink老师Flex伸缩布局](https://www.bilibili.com/video/BV1BJ41197XE?p=2);
 - [李南江亲授-jQuery+Ajax从放弃到知根知底](https://www.bilibili.com/video/BV17W41137jn/?spm_id_from=333.788.videocard.2);
 - [jQuery快速开发，黑马课程](https://www.bilibili.com/video/BV1Wz411B7N5/?spm_id_from=333.788.videocard.5);
+- [黑马pink老师移动WEB开发-Bootstrap案例](https://www.bilibili.com/video/BV1R7411s72K/?spm_id_from=333.788.videocard.9);
+- [Bootstrap 4 从入门到学会](https://www.bilibili.com/video/BV1kp411R7TW/?spm_id_from=333.788.videocard.4);
+- [2020版Bootstrap入门教程（首发）【千锋】](https://www.bilibili.com/video/BV1uQ4y1T7kW?p=13)
 
 
 ### 鼠标动作之间的区别
