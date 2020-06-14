@@ -21,3 +21,6 @@
 
 #### CSS重点突破-布局
 - [如何居中一个元素（终结版）](https://github.com/ljianshu/Blog/issues/29);
+
+#### CSS重点突破-经典颜色值
+- boottrate rgb(101, 74, 141);
