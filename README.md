@@ -17,5 +17,6 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 - [【小马技术】Bootstrap 4 从入门到学会](https://www.bilibili.com/video/BV1kp411R7TW?p=21);
 - [全栈工程师】2019年技术路标](https://www.bilibili.com/video/BV1r4411p79s);
 - [小马技术】Git入门-源代码版本管理工具](https://www.bilibili.com/video/BV1op411o7jY);
+- [黑马node.js视频（最优入门视频）](https://www.bilibili.com/video/BV16E41137ZU?from=search&seid=11015538650469949063);
 
 
