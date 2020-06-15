@@ -14,8 +14,10 @@
 #### FrontendBlogs
 - [前端学习博客01](https://github.com/qiu-deqing/FE-learning#%E5%B7%A5%E5%85%B7);
 - [前端工匠 博客 *重点推荐*](https://github.com/ljianshu/Blog);
+- [Youtuber Coding With Basir ](https://codingwithbasir.com/);
 
-#### 前端工具网站
+
+#### 前端工具导航网站
 - [前端文档和工具](https://www.html.cn/nav/);
 - [Web前端导航](http://www.alloyteam.com/nav/);
 - [Gulp](https://www.gulpjs.com.cn/);
