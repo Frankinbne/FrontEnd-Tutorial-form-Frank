@@ -1,6 +1,7 @@
 # REACT 相关文章
 
 - [React入门及资源指引](https://segmentfault.com/a/1190000006495917);
+- [React & Node Tutorial - Full ECommerce in 5 Hours [2020]](https://www.youtube.com/watch?v=Fy9SdZLBTOo)
 
 
 
