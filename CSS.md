@@ -29,3 +29,6 @@
 - 则添加样式 margin: 0 0 -1px -1px;
 - [css解决盒子水平排列边框叠加变粗的问题](https://www.cnblogs.com/echol/p/12730200.html);
 - [css如何去掉重叠部分的边框？](https://www.php.cn/css-tutorial-412502.html)
+
+### css伪元素
+- [CSS生成内容](https://www.w3cplus.com/css/css-generated-content.html);
