@@ -9,3 +9,5 @@ Let's get start!
 - [Node入门](https://www.nodebeginner.org/index-zh-cn.html);
 - [九浅一深Node](https://github.com/nswbmw/N-blog);
 - [Node入门大全](https://cnodejs.org/getstart);
+
+- [Node中文 导航 必看重点！！！！](https://github.com/youyudehexie/node123);
