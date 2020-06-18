@@ -22,3 +22,5 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 - [黑马node.js视频（最优入门视频）](https://www.bilibili.com/video/BV16E41137ZU?from=search&seid=11015538650469949063);
 
 
+# **视频教程实战**
+- [Bootstrap新闻站开发 - Bootstrap实战](https://www.bilibili.com/video/BV1nx411m7mx?p=3);
