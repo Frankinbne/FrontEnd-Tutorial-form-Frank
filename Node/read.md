@@ -11,3 +11,10 @@ Let's get start!
 - [Node入门大全](https://cnodejs.org/getstart);
 
 - [Node中文 导航 必看重点！！！！](https://github.com/youyudehexie/node123);
+
+
+
+
+### node知识总结
+
+- [package.json 详解](https://juejin.im/post/5ddf97986fb9a071ac1a0b09);
