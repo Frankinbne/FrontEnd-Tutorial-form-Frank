@@ -5,7 +5,7 @@
 - [React 官方 Courses](https://zh-hans.reactjs.org/community/courses.html)
 - [英文网站前端全部  可边看边练习](https://scrimba.com/allcourses)
 - [Learn React for free](https://scrimba.com/course/glearnreact)
-- [React 英文可看教程](https://egghead.io/lessons/react-create-a-simple-reusable-react-component-2d343246)
+- [React 英文可看教程 egghead.io](https://egghead.io/lessons/react-create-a-simple-reusable-react-component-2d343246)
 
 
 # REACT 相关文章
