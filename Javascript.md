@@ -16,3 +16,9 @@ sajdkhashdkg
 ### 前端面试题
 - [前端基础面试题(JS部分)](https://zhuanlan.zhihu.com/p/28428367);
 
+
+
+### 原型
+
+- [后盾人原型讲解视频](https://www.bilibili.com/video/BV17J411y7XZ?p=6)
+
