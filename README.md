@@ -86,8 +86,8 @@
 - [视频 Ajax Jquery](https://www.bilibili.com/video/BV1D4411a7xA?p=2)
 ---
 ### React
-、、、
+```
 2323232323
-、、、
+```
 - [周啸天 React视频学习](https://www.bilibili.com/video/BV14t4y1278c?from=search&seid=17237719711732453932)
 ---
