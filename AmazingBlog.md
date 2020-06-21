@@ -53,3 +53,5 @@
 - [JavaScript 教程](https://wangdoc.com/javascript/);
 - [ECMAScript5.1中文版](http://yanhaijing.com/es5/#about);
 - [JavaScript 完全手册（2018版）](https://www.w3schools.com/css/default.asp);
+- [阮一峰 js 教程](https://javascript.ruanyifeng.com/oop/this.html)
+- [阮一峰 网络日志](https://www.ruanyifeng.com/blog/2010/04/using_this_keyword_in_javascript.html)
