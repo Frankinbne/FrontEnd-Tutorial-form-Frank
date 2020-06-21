@@ -19,6 +19,6 @@ sajdkhashdkg
 
 
 ### 原型
-
+- [pink老师讲面向对象编程和在ES6](https://www.bilibili.com/video/BV1Kt411w7MP?p=32)
 - [后盾人原型讲解视频](https://www.bilibili.com/video/BV17J411y7XZ?p=6)
 
