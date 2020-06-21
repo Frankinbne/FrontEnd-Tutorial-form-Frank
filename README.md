@@ -74,10 +74,6 @@
 - [如何居中一个元素（终结版）](https://github.com/ljianshu/Blog/issues/29);
 
 
-
-
-
-
 ### Javascript必读教程
 - [ES6 入门教程](https://es6.ruanyifeng.com/);
 - [JavaScript 教程](https://wangdoc.com/javascript/);
@@ -86,8 +82,8 @@
 - [阮一峰 js 教程](https://javascript.ruanyifeng.com/oop/this.html)
 - [阮一峰 网络日志](https://www.ruanyifeng.com/blog/2010/04/using_this_keyword_in_javascript.html)
 
-
-
+### Ajax Jquery 教程
+- [视频 Ajax Jquery](https://www.bilibili.com/video/BV1D4411a7xA?p=2)
 
 ### React
 
