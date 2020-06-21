@@ -18,7 +18,8 @@ sajdkhashdkg
 
 
 
-### 原型
-- [pink老师讲面向对象编程和在ES6](https://www.bilibili.com/video/BV1Kt411w7MP?p=32)
+### 面向对象原型
+- [Pink 老师的课程](https://www.bilibili.com/video/BV1zt411K7f2?p=2)
 - [后盾人原型讲解视频](https://www.bilibili.com/video/BV17J411y7XZ?p=6)
+- [阮一峰讲面向对象编程](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
 
