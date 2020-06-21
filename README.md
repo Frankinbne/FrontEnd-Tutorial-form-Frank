@@ -4,7 +4,7 @@
 
 
 # **视频教程大总结**
-```
+
 - [web前端开发必会的技能，JavaScript从零基础入门到精通](https://www.bilibili.com/video/BV1ux411d75J?p=120);
 - [前端基础进阶-JavaScript核心 DOM BOM操作](https://www.bilibili.com/video/BV1k4411w7sV?p=14);
 - [【一遍学会】web前端基础教程，初学小白快速入门HTML5+CSS3](https://www.bilibili.com/video/BV1pE411q7FU);
@@ -19,7 +19,7 @@
 - [小马技术】Git入门-源代码版本管理工具](https://www.bilibili.com/video/BV1op411o7jY);
 - [黑马node.js视频（最优入门视频）](https://www.bilibili.com/video/BV16E41137ZU?from=search&seid=11015538650469949063);
 - [Pink 老师js es高级讲解](https://www.bilibili.com/video/BV1Kt411w7MP?p=14)
-```
+
 
 # **视频教程实战**
 - [Bootstrap新闻站开发 - Bootstrap实战](https://www.bilibili.com/video/BV1nx411m7mx?p=3);
