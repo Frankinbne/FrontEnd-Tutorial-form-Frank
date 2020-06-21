@@ -16,6 +16,7 @@
 - [全栈工程师】2019年技术路标](https://www.bilibili.com/video/BV1r4411p79s);
 - [小马技术】Git入门-源代码版本管理工具](https://www.bilibili.com/video/BV1op411o7jY);
 - [黑马node.js视频（最优入门视频）](https://www.bilibili.com/video/BV16E41137ZU?from=search&seid=11015538650469949063);
+- [Pink 老师js es高级讲解](https://www.bilibili.com/video/BV1Kt411w7MP?p=14)
 
 
 # **视频教程实战**
