@@ -25,7 +25,7 @@
 - [Bootstrap新闻站开发 - Bootstrap实战](https://www.bilibili.com/video/BV1nx411m7mx?p=3);
 ---
 
-## HREE ARE THE BEST FRONTEND BLOG IN THE WORLD
+
 
 ## 网课链接 🔗
 
@@ -48,6 +48,7 @@
 - [Youtuber Coding With Basir ](https://codingwithbasir.com/);
 
 ---
+
 #### 前端工具导航网站
 - [前端文档和工具](https://www.html.cn/nav/);
 - [Web前端导航](http://www.alloyteam.com/nav/);
@@ -57,12 +58,6 @@
 
 
 ---
-#### CSS必读教程
-- [CSS设计指南](https://www.nli.cn/read/css-sjzhin/part0000_split_004.html);中文重点入门教程
-- [Marksheet](https://marksheet.io/);英文简单入门教程
-- [CSS Reference](http://tympanus.net/codrops/css_reference/);
-- [CSS参考手册](http://css.doyoe.com/);
-- [W3cschool](https://www.w3schools.com/css/default.asp);
 
 |CSS 重点教程（文字）|CSS 布局之flex| CSS核心布局总结｜
 |  ----  | ----  | ----  |
@@ -73,12 +68,7 @@
 |- [W3cschool](https://www.w3schools.com/css/default.asp);|  |  |
 
 
-
-
-#### CSS重点突破-布局
-- [如何居中一个元素（终结版）](https://github.com/ljianshu/Blog/issues/29);
-|
-
+---
 
 
 ### Javascript必读教程
